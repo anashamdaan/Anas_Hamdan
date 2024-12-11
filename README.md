@@ -13,5 +13,5 @@
 - [Project Exam 1](https://anashamdaan.github.io/Hl-Blog-demo)
 
 ## Get in Touch
-- [Email](Anas.hamdan03@gmail.com)
+- Email(Anas.hamdan03@gmail.com)
 - [LinkedIn](LinkedIn Link)
