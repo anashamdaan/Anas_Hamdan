@@ -1,5 +1,5 @@
 # Hello, I'm Anas Hamdan 👋
-
+![Anas Hamdan](/images/anas%20hamdan.jpg)  
 ## About Me
 - 🌍 Based in [Norway,oslo].
 - 💻 Developer | Web Designer | Trader.
