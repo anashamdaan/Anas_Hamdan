@@ -14,4 +14,4 @@
 
 ## Get in Touch
 - Email(Anas.hamdan03@gmail.com)
-- [LinkedIn](LinkedIn Link)
+- [LinkedIn](www.linkedin.com/in/anas-hamdan-4a1000197)
